@@ -1,9 +1,5 @@
 
-
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">,  I'm Yujin</h1>
-
-![GitHub followers](https://img.shields.io/github/followers/AnushkaWijegoonawardana97?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/AnushkaWijegoonawardana97?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=AnushkaWijegoonawardana97.repoName) <img src="https://komarev.com/ghpvc/?username=AnushkaWijegoonawardana97" alt="AnushkaWijegoonawardana97" /> 
-💌 <feat.ruby@gmail.com>
 
 ## About Me :
 
@@ -12,8 +8,7 @@
 - 🎓 I'm majored in advertising video design
 - 🏡 Lives in **Seoul**
 - ⚡ **Fun Facts** : 🐶 🐱 🍕 📷 🎥 🚞 🌿
-
-<br>
+- 💌 <feat.ruby@gmail.com>
 
 <br>
 
@@ -31,8 +26,7 @@
 
 <br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ruby-yujin&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![ruby-yujin GitHub stats](https://github-readme-stats.vercel.app/api?username=ruby-yujin&theme=algolia)](https://github.com/ruby-yujin/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnushkaWijegoonawardana97&theme=algolia)](https://github.com/ruby-yujin/github-readme-stats) [![ruby-yujin wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ruby-yujin&theme=algolia)](https://github.com/ruby-yujin/github-readme-stats)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ruby-yujin&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![ruby-yujin GitHub stats](https://github-readme-stats.vercel.app/api?username=ruby-yujin&theme=algolia)](https://github.com/ruby-yujin/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruby-yujin&theme=algolia)](https://github.com/ruby-yujin/github-readme-stats) 
 <br>
 
 ## Activity Graph 📊 :
