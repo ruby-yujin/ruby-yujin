@@ -1,5 +1,8 @@
 
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">,  I'm Yujin</h1>
+<h3 align="center" style="border-bottom:none;">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">,  I'm Yujin</h3>
+<p align="center">
+  <img src="https://media2.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif?cid=ecf05e479j3uxwzfh0tqi5apby80ytdfrtsfv76x26svbrnd&rid=giphy.gif&ct=g"/>
+</p>
 
 ## About Me :
 
