@@ -32,17 +32,19 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ruby-yujin&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![ruby-yujin GitHub stats](https://github-readme-stats.vercel.app/api?username=ruby-yujin&theme=algolia)](https://github.com/ruby-yujin/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruby-yujin&theme=algolia)](https://github.com/ruby-yujin/github-readme-stats) 
 <br>
 
+
+<!--
 ## Activity Graph 📊 :
 
 <br>
 
 [![Ruby-yujin's github activity graph](https://activity-graph.herokuapp.com/graph?username=ruby-yujin&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true)](https://github.com/ruby-yujin/github-readme-activity-graph)
 
----
 
 
 
-<!--
+
+
 **ruby-yujin/ruby-yujin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
