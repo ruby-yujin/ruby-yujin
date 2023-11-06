@@ -6,8 +6,7 @@
 
 ## About Me :
 
-- 🏢 I am currently working as a web publisher and studying the front-end.
-//- 🏢 currently working for ADENASOFT. (https://www.adenasoft.com/)
+- 🏢 I used to be a web publisher and now I'm a front-end developer.
 - 🎓 I'm majored in advertising video design
 - 🏡 Lives in **Seoul**
 - ⚡ **Fun Facts** : 🐶 🐱 🍕 📷 🎥 🚞 🌿
