@@ -15,9 +15,11 @@
 <br>
 
 ## What I am Good at 🧑‍💻 :
-
-<br>
-<img alt="Python" src ="https://img.shields.io/badge/React-3776AB.svg?&style=for-the-badge&logo=React&logoColor=white"/>
+<img alt="Typescript" src ="https://img.shields.io/badge/Typescript-3178C6.svg?&style=for-the-badge&logo=Typescript&logoColor=white"/>
+<img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white"/>
+<img alt="Vue" src ="https://img.shields.io/badge/Vue-4FC08D.svg?&style=for-the-badge&logo=Vue&logoColor=white"/>
+<img alt="javascript" src ="https://img.shields.io/badge/Javascript-3178C6.svg?&style=for-the-badge&logo=Javascript&logoColor=white"/>
+<img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
 
 
 ## GitHub Stats 📈 :
